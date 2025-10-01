@@ -1,0 +1,13 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/",
+  "alwaysUpdateLinks": true,
+  "focusNewTab": false,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "showInlineTitle": true
+}

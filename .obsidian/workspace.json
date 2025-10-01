@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "7b8f57a56fdc180e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3281875d5eeab19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2863d7c184b530c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Источники/Д69 Служи людям.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Д69 Служи людям"
+            }
+          },
+          {
+            "id": "81e7ccf6e7e0d299",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c098932f171d0c74",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a408256f05b90b8",
+        "type": "tabs",
+        "dimension": 67.31601731601732,
+        "children": [
+          {
+            "id": "541d14b365af295c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Праваднік"
+            }
+          },
+          {
+            "id": "e20fc850b305d58a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Пошук"
+            }
+          },
+          {
+            "id": "9bf50f36b22f9cad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладкі"
+            }
+          },
+          {
+            "id": "be5027666228737e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0bd905e6f7d6f96c",
+        "type": "tabs",
+        "dimension": 32.683982683982684,
+        "children": [
+          {
+            "id": "adf5900d4cfb0a64",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5024719238281
+  },
+  "right": {
+    "id": "92f96d776e25d6c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "77aafa38f016187c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd411b7295a618ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Гордыня.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Выходныя спасылкі з Гордыня"
+            }
+          },
+          {
+            "id": "2098385175f51c6c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Тэгі"
+            }
+          },
+          {
+            "id": "1591d76b6f888c49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Гордыня.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Гордыня"
+            }
+          },
+          {
+            "id": "569c05a221b5dd1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Зваротныя спасылкі"
+            }
+          },
+          {
+            "id": "397a3ece37307f01",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Усе ўласцівасці"
+            }
+          },
+          {
+            "id": "0685ce8342884bc8",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": true,
+      "switcher:Меню хуткай навігацыі": false,
+      "graph:Граф": false,
+      "daily-notes:Сённяшняя нататка": false,
+      "command-palette:Адкрыць камандную панэль": false,
+      "omnisearch:Omnisearch": false,
+      "templates:Уставіць шаблон": false,
+      "markdown-importer:Імпарт Markdown-файлаў": true,
+      "zk-prefixer:Стварыць нататку з унікальным ідэнтыфікатарам": false,
+      "canvas:Стварыць новае палатно": true,
+      "workspaces:Кіраваць прасторамі": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "81e7ccf6e7e0d299",
+  "lastOpenFiles": [
+    "Без назвы.md",
+    "2 - Источники/Д69 Служи людям.md",
+    "2 - Источники/Д61-70 Замечать Бога.md",
+    "2 - Источники/Д60 Всегда радуйтесь.md",
+    "2 - Источники/Д51-60 Эмоции.md",
+    "2 - Источники/Д50 Божья подстеленная соломка.md",
+    "2 - Источники/Д41-50 Тайная комната и хождение с Богом 24на7.md",
+    "2 - Источники/Д40 Отдых для духа, души и тела..md",
+    "2 - Источники/Д31-40 Как правильно отдыхать.md",
+    "2 - Источники/Д29 Божественное чтение.md",
+    "2 - Источники/Д21-30 КАК ЧИТАТЬ БИБЛИЮ.md",
+    "2 - Источники/Д18 Решение о постановке цели.md",
+    "1 - Сырое/Действуй на опережение.md",
+    "1 - Сырое/Проявление.md",
+    "3 - Теги/Божья воля.md",
+    "1 - Сырое/Всему свое место. О главном.md",
+    "3 - Теги/Глубина.md",
+    "1 - Сырое/Крутое пожелание.md",
+    "1 - Сырое/3 Основные современные проблемы.md",
+    "3 - Теги/Страх.md",
+    "4 - Архив/Стихи.md",
+    "1 - Сырое/На чем построить нерушимый дом.md",
+    "1 - Сырое/Близкие отношения с Богом.md",
+    "Списочек штучек на субботник 15.16-09-2025.md",
+    "1 - Сырое/Что меня заботит.md",
+    "2 - Источники/Церковь как семья.md",
+    "3- Теги",
+    "4 - Архив/Колесо эмоций.jpg",
+    "Фишки вальхейм.md~RFa937139.TMP",
+    "Хождение с Духом Святым.md~RFa9370eb.TMP",
+    "Успокойся.md~RFa936ec8.TMP",
+    "Мысли призвание.md~RFa692632.TMP",
+    "Выбяры жыццё.md~RFa692603.TMP",
+    "Метод стирки белых вещей.md~RFa692596.TMP",
+    "Мы обречены побеждать.md~RFa692558.TMP",
+    "Планёрка 13-07-2025.md~RFa6924bb.TMP",
+    "Побеждая Божьим путём.md~RFa6923e1.TMP",
+    "2 - Источники/Колесо эмоций.jpg",
+    "Без назвы.canvas"
+  ]
+}
