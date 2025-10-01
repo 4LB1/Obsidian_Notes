@@ -9,6 +9,5 @@
   "calendar",
   "recent-files-obsidian",
   "obsidian-importer",
-  "obsidian-git",
-  "obsidian-livesync"
+  "github-sync"
 ]

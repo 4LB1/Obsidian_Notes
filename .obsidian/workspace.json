@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Источники/Д69 Служи людям.md",
+                "file": "3 - Теги/Цели.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,21 +28,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Д69 Служи людям"
+              "title": "Цели"
             }
           },
           {
-            "id": "81e7ccf6e7e0d299",
+            "id": "82807635220ed80d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Д70.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Д70"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,12 +232,22 @@
             "state": {
               "type": "todo",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "70c7a19ad6c14313",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
               "icon": "checkmark",
               "title": "Todo List"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -238,18 +261,25 @@
       "graph:Граф": false,
       "daily-notes:Сённяшняя нататка": false,
       "command-palette:Адкрыць камандную панэль": false,
-      "omnisearch:Omnisearch": false,
       "templates:Уставіць шаблон": false,
       "markdown-importer:Імпарт Markdown-файлаў": true,
-      "zk-prefixer:Стварыць нататку з унікальным ідэнтыфікатарам": false,
+      "zk-prefixer:Стварыць нататку з унікальным ідэнтыфікатарам": true,
       "canvas:Стварыць новае палатно": true,
-      "workspaces:Кіраваць прасторамі": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "workspaces:Кіраваць прасторамі": true,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": true,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-livesync:Show Log": true,
+      "obsidian-livesync:Replicate": true,
+      "obsidian-livesync:P2P Replicator": true,
+      "obsidian-livesync:Show Customization sync": true
     }
   },
-  "active": "81e7ccf6e7e0d299",
+  "active": "2863d7c184b530c1",
   "lastOpenFiles": [
+    "202510011118.md",
+    "Д70.md",
+    "3 - Теги/Цели.md",
     "Без назвы.md",
     "2 - Источники/Д69 Служи людям.md",
     "2 - Источники/Д61-70 Замечать Бога.md",
@@ -273,9 +303,6 @@
     "4 - Архив/Стихи.md",
     "1 - Сырое/На чем построить нерушимый дом.md",
     "1 - Сырое/Близкие отношения с Богом.md",
-    "Списочек штучек на субботник 15.16-09-2025.md",
-    "1 - Сырое/Что меня заботит.md",
-    "2 - Источники/Церковь как семья.md",
     "3- Теги",
     "4 - Архив/Колесо эмоций.jpg",
     "Фишки вальхейм.md~RFa937139.TMP",
