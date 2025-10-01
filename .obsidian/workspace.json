@@ -256,6 +256,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "bases:Create new base": true,
       "switcher:Меню хуткай навігацыі": false,
       "graph:Граф": false,
@@ -267,12 +268,7 @@
       "canvas:Стварыць новае палатно": true,
       "workspaces:Кіраваць прасторамі": true,
       "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": true,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-livesync:Show Log": true,
-      "obsidian-livesync:Replicate": true,
-      "obsidian-livesync:P2P Replicator": true,
-      "obsidian-livesync:Show Customization sync": true
+      "obsidian-importer:Open Importer": true
     }
   },
   "active": "2863d7c184b530c1",
